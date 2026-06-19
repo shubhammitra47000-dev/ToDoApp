@@ -1,0 +1,25 @@
+TodoApp/
+├── app/
+│   ├── src/
+│   │   └── main/
+│   │       ├── java/
+│   │       │   └── com/
+│   │       │       └── example/
+│   │       │           └── todoapp/
+│   │       │               ├── MainActivity.java
+│   │       │               ├── Task.java
+│   │       │               └── DatabaseHelper.java
+│   │       ├── res/
+│   │       │   ├── layout/
+│   │       │   │   ├── activity_main.xml
+│   │       │   │   └── item_task.xml
+│   │       │   ├── values/
+│   │       │   │   ├── colors.xml
+│   │       │   │   ├── strings.xml
+│   │       │   │   └── styles.xml
+│   │       │   └── drawable/
+│   │       │       └── ic_delete.xml
+│   │       └── AndroidManifest.xml
+│   └── build.gradle
+├── build.gradle
+└── settings.gradle
